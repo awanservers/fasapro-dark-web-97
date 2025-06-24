@@ -122,6 +122,49 @@ Building scalable applications requires careful planning and the right architect
     category: 'Development',
     slug: 'building-scalable-web-applications',
     featuredImage: 'https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80'
+  },
+  {
+    id: '4',
+    title: 'Transformasi Digital untuk UKM Indonesia',
+    excerpt: 'Panduan lengkap untuk usaha kecil dan menengah dalam mengadopsi teknologi digital untuk meningkatkan efisiensi dan daya saing.',
+    content: `# Transformasi Digital untuk UKM Indonesia
+
+Era digital telah mengubah cara berbisnis di seluruh dunia. UKM Indonesia perlu beradaptasi untuk tetap kompetitif.
+
+## Mengapa Transformasi Digital Penting?
+
+Transformasi digital membantu UKM meningkatkan efisiensi operasional, memperluas jangkauan pasar, dan meningkatkan kepuasan pelanggan.
+
+## Langkah-langkah Implementasi
+
+### 1. Evaluasi Kondisi Saat Ini
+Lakukan audit terhadap proses bisnis yang ada dan identifikasi area yang dapat ditingkatkan dengan teknologi.
+
+### 2. Pilih Teknologi yang Tepat
+Tidak semua teknologi cocok untuk setiap bisnis. Pilih solusi yang sesuai dengan kebutuhan dan budget.
+
+### 3. Pelatihan Tim
+Investasi dalam pelatihan karyawan adalah kunci sukses transformasi digital.
+
+### 4. Implementasi Bertahap
+Mulai dengan perubahan kecil dan bertahap untuk mengurangi risiko dan memudahkan adaptasi.
+
+## Manfaat yang Dapat Diperoleh
+
+- Peningkatan efisiensi operasional
+- Pengurangan biaya operasional
+- Peningkatan kepuasan pelanggan
+- Ekspansi pasar yang lebih luas
+
+## Kesimpulan
+
+Transformasi digital bukan lagi pilihan, tetapi keharusan bagi UKM yang ingin berkembang di era modern.`,
+    author: 'Andi Pratama',
+    date: '2024-02-20',
+    readTime: '7 min read',
+    category: 'Digital Transformation',
+    slug: 'transformasi-digital-ukm-indonesia',
+    featuredImage: 'https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=800&q=80'
   }
 ];
 
